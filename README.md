@@ -3,17 +3,17 @@
 
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
-- 🔭 I’m currently working on [Nosis](https://www.nosis.com/es)
+- 🔭 I’m currently working on: [Nosis](https://www.nosis.com/es)
 
-- 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
+- 👨‍💻 All of my projects are available at: [coming soon!](coming soon!)
 
-- 💬 Ask me about **React, css and web development**
+- 💬 Ask me about: **React, css and web development**
 
-- 🌱 I’m currently learning **TypeScript & Redux**
+- 🌱 I’m currently learning: **TypeScript & Redux**
 
-- 📫 How to reach me **gbritez53@gmail.com**
+- 📫 How to reach me: **gbritez53@gmail.com**
 
-- ⚡ Fun fact **I like to draw, travel, sing and play guitar**
+- ⚡ Fun fact: **I like to draw, travel, sing and play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
