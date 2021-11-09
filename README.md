@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **React, css and web development**
 
+- 🌱 I’m currently learning **TypeScript & Redux**
+
 - 📫 How to reach me **gbritez53@gmail.com**
 
 - ⚡ Fun fact **I like to draw, travel, sing and play guitar**
