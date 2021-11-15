@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
-- 🔭 I’m currently working on: [Nosis](https://www.nosis.com/es)
+- 🔭 I’m currently working: **Freelance**
 
 - 👨‍💻 All of my projects are available at: [coming soon!](coming soon!)
 
