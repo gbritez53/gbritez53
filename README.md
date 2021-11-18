@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working: **Freelance**
 
-- 👨‍💻 All of my projects are available at: [coming soon!](coming soon!)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://portfolio-gbritez53.vercel.app/)
 
 - 💬 Ask me about: **React, css and web development**
 
