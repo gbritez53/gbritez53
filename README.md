@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
-- 🔭 I’m currently working: **Freelance**
+- 🔭 I’m currently working: GOIAR
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://portfolio-gbritez53.vercel.app/)
 
