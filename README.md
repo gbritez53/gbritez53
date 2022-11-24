@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **React, css and web development**
 
-- 🌱 I’m currently learning: **TypeScript & Redux**
+- 🌱 I’m currently learning: **TypeScript & NestJs**
 
 - 📫 How to reach me: **gbritez53@gmail.com**
 
